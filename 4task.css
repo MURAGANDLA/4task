@@ -1,0 +1,79 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+    
+}
+.container{
+    background-image:url("images/pic4.png");
+    background-size: 1250px 600px;
+    height: 80vh;
+    width: 100vw;
+}
+.container4{
+    background-color: rgb(198, 234, 234);
+    margin-left: 10px;
+    text-align: justify;
+    height: 60px;
+    
+}
+.link1{
+    color: rgb(15, 15, 14);
+    text-decoration: none;
+}
+.link2{
+    color: black;
+    text-decoration: none;
+}
+.link3{
+    background-color: rgb(241, 129, 9);
+    color: aliceblue;
+    text-decoration: none;
+    padding: 5px;
+}
+.unorder{
+    list-style-type: none;
+    float: right;
+    padding-top: 3px;
+}
+li{
+    display: inline;
+    padding: 5px;
+}
+.head1{
+    color: rgb(255, 122, 14);
+    font-family: 'Courier New', monospace;
+    font-weight: 600;
+    margin: 0px;
+    margin-top: 200px;
+}
+.head2{
+    color: rgb(42, 42, 180);
+    font-family: 'Courier New', monospace;
+    font-weight: 600;
+    margin: 0px;
+    margin-top: 2px;
+}
+.button{
+    background-color: rgb(255, 145, 20);
+    color: aliceblue;
+    border-width: 0px;
+    font-size: 10px;
+    padding: 8px;
+    margin-left: 130px;
+}
+.content{
+    padding: 100px;
+}
+img{
+    padding-left: 110px;
+    padding-top: 4px;
+    padding-bottom: 5px;
+
+}
+.container2{
+    display: inline;
+}
+.pop{
+    margin-left: 900px;
+}
